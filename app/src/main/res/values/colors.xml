@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="Verdebaguiado">#008f39</color>
+    <color name="Vermelhobagulhado">#FF0000</color>
+    <color name="Azulbagulhado">#0000FF</color>
     <color name="white">#FFFFFFFF</color>
     <color name="cor_azul_logo">#00142f</color>
 </resources>
